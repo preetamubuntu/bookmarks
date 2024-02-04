@@ -1,4 +1,5 @@
-- https://linuxiac.com/category/linux-knowledge/tips/
-- https://www.redhat.com/sysadmin/ways-use-ssh
-- https://github.com/voidquark/el_patching/tree/main
-- https://gist.github.com/victorbrca/25b446dca5891481ce790b0fd0fbdedb (Ansible API Updates)
+# All Linux Topics
+
+- <https://linuxiac.com/category/linux-knowledge/tips/>
+- <https://www.redhat.com/sysadmin/ways-use-ssh>
+- <https://www.redhat.com/sysadmin/one-line-linux-commands>
