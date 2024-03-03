@@ -7,3 +7,4 @@ bash -c  "$(curl -fsSL https://raw.githubusercontent.com/officialrajdeepsingh/ne
 ```
 - [Powerline Setup](https://community.netcup.com/en/tutorials/install-oh-my-zsh)
 - [Another one on Nerd Fonts](https://bytexd.com/how-to-install-nerd-fonts-on-linux/)
+- [Indent Colors for vsCode](https://stackoverflow.com/questions/47942390/how-to-change-indent-guide-line-color-between-brackets-in-vs-code)
